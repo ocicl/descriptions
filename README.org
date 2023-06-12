@@ -1,0 +1,10 @@
+* descriptions
+
+Meta level descriptions library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mmontone/descriptions.git   |
+| commit  | 89f5c87  |
+| systems | descriptions |
+|---------+-------------------------------------------|
+
